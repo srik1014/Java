@@ -1,8 +1,7 @@
 package com.ravi.cal.RaviCalculator;
 
 public class Calculator {
-//Demo
-//added
+
 	public long first;
 	public long second;
 	
